@@ -1,0 +1,17 @@
+,model type,count
+0,EAM-Dynamo,100
+1,MEAM-LAMMPS,83
+2,Sim-LAMMPS-MEAM,13
+3,EMT-Asap-Standard,8
+4,Sim-LAMMPS-ADP,8
+5,Tersoff-LAMMPS,5
+6,SNAP,4
+7,EAM-IMD,3
+8,EAM,2
+9,Sim-LAMMPS-BOP,2
+10,EMT-Asap-MetalGlass,2
+11,EAM-CubicNaturalSpline,1
+12,EAM-MagneticCubic,1
+13,EAM-QuinticClampedSpline,1
+14,Sim-LAMMPS-ReaxFF,1
+15,Sim-LAMMPS-TersoffZBL,1

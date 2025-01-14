@@ -1,0 +1,18 @@
+Canonical Property,Structures,Property Abbreviation
+Bulk Modulus,"BCC, FCC, SC",Bulk Mod.
+"C11, C12, C44","BCC, FCC, SC","C11, C12, C44"
+G.B. energy analytical model scaling coefficient,FCC,Coeff.
+Cohesive energy,"BCC, FCC, SC",CohEn
+Extrinsic stacking fault energy,FCC,eSFE
+Intrinsic stacking fault energy,FCC,iSFE
+Lattice constant,"BCC, FCC, SC",LC
+Relaxed vacancy formation potential energy,"BCC, FCC",RVFPE
+Surface energy {100} {110} {111} {121},"BCC, FCC",SE
+Thermal expansion coefficient,"BCC, FCC",TEC
+Unstable stacking fault energy,FCC,uSFE
+Unstable stacking fault energy slip fraction,FCC,uSFESF
+Unstable twinning fault energy,FCC,uTwE
+Unstable twinning fault energy slip fraction,FCC,uTwESF
+Unrelaxed vacancy formation potential energy,"BCC, FCC",uVFPE
+Vacancy migration energy,"BCC, FCC",VME
+Vacancy relaxation volume,"BCC, FCC",VRV

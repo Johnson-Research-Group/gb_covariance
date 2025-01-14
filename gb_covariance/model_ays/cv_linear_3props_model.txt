@@ -1,0 +1,4 @@
+factors: ['unstable_stack_energy_fcc' 'relaxed_formation_potential_energy_fcc'
+ 'vacancy_migration_energy_fcc']
+coeff: [18.52124684  0.79609966  0.67369013]
+intercept: -0.15918962837076123

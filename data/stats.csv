@@ -1,0 +1,12 @@
+,0,1
+0,Total number of GB data points,1590
+1,Number filtered by crystal type,321
+2,Number filtered by outlier limits,153
+3,Number of pair potential points removed,76
+4,Number of duplicate tilt axes removed,732
+5,Crystal type selected,fcc
+6,Number of unique model + species combos,308
+7,Number of GB data points used,308
+8,Number of unique models total,304
+9,Number of models used,235
+10,Number of models dropped,69

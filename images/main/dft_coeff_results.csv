@@ -1,0 +1,8 @@
+,species,C44 FCC,iSFE FCC,uSFE FCC,"Coefficient, exact fit using DFT GB energies","Coefficient, regressed fit using DFT indicator properties",Percent Error
+0,Ag,41.208,1.067,6.472,1.032,1.004,-2.68
+1,Al,33.66,7.602,10.43,0.886,0.972,9.73
+2,Au,26.529,1.872,5.418,0.842,0.82,-2.67
+3,Cu,79.597,2.628,11.104,1.551,1.49,-3.93
+4,Ni,117.592,8.919,17.851,2.302,1.963,-14.76
+5,Pd,59.541,9.1,14.168,1.686,1.317,-21.91
+6,Pt,60.493,18.993,19.973,1.633,1.363,-16.5
